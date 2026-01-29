@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dobotmagician" size="1.000000 1.086000" />
+    <ImageTarget name="robomaser3d-scaner3dq" size="1.000000 1.086000" />
+    <ImageTarget name="3dprinterflyingbearghost5" size="1.000000 1.082000" />
+    <ImageTarget name="printer3dcarima" size="1.000000 1.084000" />
+    <ImageTarget name="konicaminoltabizhubc258" size="1.000000 1.086000" />
+    <ImageTarget name="hpprobook450" size="1.000000 1.088000" />
+    <ImageTarget name="hpdesignjett120plotter" size="1.000000 1.084000" />
+    <ImageTarget name="3d-printeranycubicmega-s" size="1.000000 1.082000" />
+    <ImageTarget name="monoblokicl" size="1.000000 1.088000" />
+    <ImageTarget name="dobotmooz" size="1.000000 1.086000" />
+    <ImageTarget name="Robot-gumanoidbilix" size="1.000000 1.088000" />
+  </Tracking>
+</QCARConfig>
