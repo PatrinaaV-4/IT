@@ -25,7 +25,7 @@ Android-устройство версии 8.0+
 
 Установка:
 
-Ссылка для скачики файла: https://disk.yandex.ru/client/disk
+Ссылка для скачики файла: https://disk.yandex.ru/d/XJu_iTFEvw7eqA
 
 Скачайте APK-файл 
 
